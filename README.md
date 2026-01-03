@@ -1,8 +1,8 @@
-## 👩‍💻About Me:
-*👋Hey, I'm Pranjal Gosavi, a B.Tech Computer Science student at MITADT University, passionate about coding, problem-solving, and software development. I love turning ideas into functional applications, exploring full-stack development, and optimizing algorithms.<br>I believe in continuous learning and leveraging technology to create impactful solutions. Currently, I’m diving deeper into system design and data structures to build scalable projects.<br><br>Let’s connect and innovate together!🚀*
+## About Me:
+Hey, I'm Pranjal Gosavi, a B.Tech Computer Science student at MITADT University, passionate about coding, problem-solving, and software development. I love turning ideas into functional applications, exploring full-stack development, and optimizing algorithms.<br>I believe in continuous learning and leveraging technology to create impactful solutions. Currently, I’m diving deeper into system design and data structures to build scalable projects.<br><br>Let’s connect and innovate together!
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-gosavi-21b182292/) 
 
 # 💻 Tech chronicles:
